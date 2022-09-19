@@ -22,9 +22,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu1120&show_icons=true&locale=en&layout=compact" alt="priyanshu1120" /></p>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu1120&show_icons=true&locale=en" alt="priyanshu1120" /></p>
+
+
 <p>
   <img src="https://activity-graph.herokuapp.com/graph?username=lokeshahire&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu1120&show_icons=true&locale=en" alt="priyanshu1120" /></p>
 
