@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kaushik</h1>
 <h3 align="center">Aspiring Full Stack Web Developer skilled in MERN stack who focuses on writing clean,elegent, efficient code and I am  also curious for learning the new things which will impeove my skills and knowledge</h3>
 
-- 🔭 I’m currently working on **Mongo Db and Node JS**
+- 🔭 I’m currently working on **Mongo Db and Node JS and Redux**
 
 - 🌱 I’m currently learning **Full Stack Web Development Coruse**
 
