@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mongo Db and Node JS and Redux**
 
-- 🌱 I’m currently learning **Full Stack Web Development Coruse**
+- 🌱 I’m currently learning **Full Stack Web Development Course**
 
 - 👨‍💻 All of my projects are available at [https://priyanshu1120.github.io](https://priyanshu1120.github.io)
 
