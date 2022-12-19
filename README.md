@@ -38,6 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu1120&show_icons=true&locale=en" alt="priyanshu1120" /></p>
 <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=priyanshu1120&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshu1120&" />
 </p>
 
